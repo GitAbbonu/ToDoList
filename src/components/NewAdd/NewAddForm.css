@@ -1,0 +1,40 @@
+.extend-cart {
+  height: 300px;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.btn-form {
+  cursor: pointer;
+  height: 50px;
+  width: 100%;
+  border-radius: 15px;
+  font-size: 2rem;
+  border: none;
+  margin: 1% 5%;
+}
+
+.canc:hover {
+  background-color: red;
+  color: #fffae7;
+}
+.add:hover {
+  background-color: rgb(139, 231, 0);
+  color: #fffae7;
+}
+
+.alert-box {
+  padding: 10px;
+  margin-left: 2%;
+  width: 96%;
+  background-color: #f8d7da;
+  border-color: #f7a2aa;
+  color: #721c24;
+  border-radius: 12px;
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}

@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #ffde00;
+}
+
+html {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+
+h1 {
+  font-size: 6rem;
+  text-align: center;
+}
+h2 {
+  font-size: 4rem;
+  text-align: center;
+}

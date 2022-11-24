@@ -1,0 +1,20 @@
+.circle_button {
+  cursor: pointer;
+  display: block;
+  height: 100px;
+  width: 100px;
+  background-color: #fffae7;
+  color: #ffde00;
+  border-radius: 50%;
+  font-size: 5rem;
+  border: none;
+  position: relative;
+  left: 46%;
+  margin-bottom: 50px;
+}
+
+.circle_button:hover,
+.circle_button:active {
+  background-color: greenyellow;
+  color: #fffae7;
+}
